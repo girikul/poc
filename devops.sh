@@ -1,3 +1,3 @@
-#! /usr/bin/bash
+#!/bin/bash
 
 echo "test pull to local"
